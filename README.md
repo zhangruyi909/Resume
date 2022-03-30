@@ -83,7 +83,7 @@ Pixiv.comから収集した約15万枚のHDアニメ画像をFastRCNNを用い�
 
   強化学習のDQN、DDPGを用いて慣性質量を変化させることによって、地震波を抑える研究を行っています
 
-  ![RL](https://github.com/zhangruyi909/Resume/img/rl.jpg)
+  ![RL](https://github.com/zhangruyi909/Resume/blob/main/img/rl.jpg)
 
   
 
