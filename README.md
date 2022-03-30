@@ -31,7 +31,9 @@
 
 ​    （https://github.com/zhangruyi909/FourierCircle）
 
-入力のSVG画像からPathを抽出し、ラプラス変換をさせて、複素平面で近似した結果の画像
+入力のSVG画像からPathを抽出し、ラプラス変換をさせて、複素平面で近似した結果の結果
+
+（gifファイルが正しくロードされていない可能性があるので、ダウンロードすることが推奨です）
 
 ![fourier](https://github.com/zhangruyi909/Resume/blob/main/img/fourier.gif)
 
