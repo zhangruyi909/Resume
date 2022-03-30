@@ -29,7 +29,7 @@
 
 * 離散的ラプラス変換を用いたSVG画像解析・関数再現　　　　　　　　　　　　　　　 （2020年11月頃）
 
-​    （https://github.com/zhangruyi909/FourierCircle）
+  <a>https://github.com/zhangruyi909/FourierCircle</a>
 
 入力のSVG画像からPathを抽出し、ラプラス変換をさせて、複素平面で近似した結果の結果
 
@@ -41,7 +41,7 @@
 
 * Seleniumフレームワークに基づいたPixivクローラー　　　　　　　      　　　  　　　  （2021年03月頃）
 
-​    （https://github.com/zhangruyi909/PixivCrawler）
+  <a>https://github.com/zhangruyi909/PixivCrawler</a>
 
 Pixiv.comから収集した約15万枚のHDアニメ画像をFastRCNNを用いて顔部分を切り出した結果のフォルダ
 
