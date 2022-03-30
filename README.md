@@ -33,7 +33,7 @@
 
 入力のSVG画像からPathを抽出し、ラプラス変換をさせて、複素平面で近似した結果の画像
 
-![fourier](https://github.com/zhangruyi909/Resume/img/fourier.gif)
+![fourier](https://github.com/zhangruyi909/Resume/blob/main/img/fourier.gif)
 
 
 
@@ -43,7 +43,7 @@
 
 Pixiv.comから収集した約15万枚のHDアニメ画像をFastRCNNを用いて顔部分を切り出した結果のフォルダ
 
-![anime_dataset](https://github.com/zhangruyi909/Resume/img/anime_dataset.jpg)
+![anime_dataset](https://github.com/zhangruyi909/Resume/blob/main/img/anime_dataset.jpg)
 
 
 
@@ -53,7 +53,7 @@ Pixiv.comから収集した約15万枚のHDアニメ画像をFastRCNNを用い�
 
 [StyleGAN](https://github.com/NVlabs/stylegan2)を用いて自作のデータセットを150,000 iterトレーニング後、スタイル融合した結果の画像
 
-![stylegan_1](https://github.com/zhangruyi909/Resume/img/stylegan.jpg)
+![stylegan_1](https://github.com/zhangruyi909/Resume/blob/main/img/stylegan.jpg)
 
 
 
