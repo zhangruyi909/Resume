@@ -35,7 +35,7 @@
 
 （gifファイルが正しくロードされていない可能性があるので、ダウンロードすることが推奨です）
 
-![fourier](https://github.com/zhangruyi909/Resume/blob/main/img/miku.mp4)
+![fourier](https://github.com/zhangruyi909/Resume/blob/main/img/fourier.gif)
 
 
 
