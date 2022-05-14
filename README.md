@@ -107,10 +107,10 @@ Pixiv.comから収集した約15万枚のHDアニメ画像をFastRCNNを用い�
 
 **よく使うPythonライブラリー：**
 
-* 機械学習・深層学習：　Pytorch　TensorFlow　Openmmlab　Sklearn　XGBoost　AutoGloun
+* 機械学習・深層学習：　Pytorch　TensorFlow　Openmmlab　Sklearn　XGBoost　AutoGloun　など
 
-* 数理分析・可視化　：　Numpy　SciPy　Sympy　Pandas　Matplotlib　SHAP
+* 数理分析・可視化　：　Numpy　SciPy　Sympy　Pandas　Matplotlib　SHAP　など
 
-* 画像処理・強化学習：　OpenCV　Image　Gym
+* 画像処理・強化学習：　OpenCV　Image　Gym　Stable_baseline3　など
 
-* ネットワーク・スクレイピング関連：　Selenium　Request　Flask
+* ネットワーク・スクレイピング関連：　Selenium　Request　Flask　など
